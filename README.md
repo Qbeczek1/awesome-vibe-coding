@@ -28,6 +28,7 @@ Projects where the majority of code was generated through collaboration with<br>
 
 ## SEO & Digital Marketing
 
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code with 19 sub-skills, 12 subagents, technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, Google APIs, and PDF/Excel reporting. `Claude Code` `DataForSEO`
 - [DeepRank-AI](https://github.com/DeepRank-AI/seo-platform-template) - AI SEO platform template with dashboard, keyword research, backlink analysis, and Google Search Console integration. `Vue 3` `OpenAI`
 - [GetCito](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - Open-source AI Search Optimization tool monitoring content performance across ChatGPT, Perplexity, and Gemini. `Next.js` `AI-assisted`
 - [LOOM](https://github.com/MarcinZmuda/loom) - AI-powered internal linking engine for WordPress with semantic embeddings, 11-dimensional scoring, and Google Search Console integration. `PHP` `OpenAI`
@@ -45,6 +46,7 @@ Projects where the majority of code was generated through collaboration with<br>
 
 - [Ads MCP](https://github.com/amekala/ads-mcp) - Cross-platform ad management MCP with 100+ tools covering Google Ads, Meta Ads, TikTok Ads, and LinkedIn Ads. `Python` `Claude`
 - [Amazon Ads MCP](https://github.com/ppcprophet/amazon-ads-mcp) - Amazon Advertising MCP server with 27+ tools for performance analytics and wasted spend analysis. `TypeScript` `Claude`
+- [Claude Ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code with 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads, weighted scoring, and industry templates. `Claude Code`
 - [ClickCampaigns](https://github.com/mikefilsaime-groove/ClickCampaigns-for-Claude-Code-in-Cursor) - Marketing campaign system with 22 AI agents generating funnels, email sequences, and ad copy. `Markdown` `Claude Code`
 - [Google Ads MCP](https://github.com/googleads/google-ads-mcp) - Official Google Ads MCP server enabling LLMs to interact with Google Ads API via GAQL queries. `Python` `Gemini`
 - [Google Ads MCP (Community)](https://github.com/google-marketing-solutions/google_ads_mcp) - Community Google Ads MCP server with broader tool support for campaign management and reporting. `Python` `Claude`
@@ -53,7 +55,9 @@ Projects where the majority of code was generated through collaboration with<br>
 
 ## Content & Copywriting
 
+- [Claude Blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code skill ecosystem for blog content creation, optimization, and management, dual-optimized for Google rankings and AI citations. `Claude Code`
 - [Better Plan](https://github.com/epavanello/better-plan) - AI-powered social media content manager with post generation, scheduling, and multi-platform publishing. `React` `Cursor`
+- [SEOMachine](https://github.com/TheCraigHewitt/seomachine) - Specialized Claude Code workspace for creating long-form, SEO-optimized blog content with research, writing, analysis, and optimization workflows. `Claude Code`
 - [VibeCoded](https://github.com/ddunford/VibeCoded) - Collection of vibe-coded tools including AI Writing Assistant, Content Summarizer, and Code Explainer. `Next.js` `AI-assisted`
 
 ## Analytics & Reporting
