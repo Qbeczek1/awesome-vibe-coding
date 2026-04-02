@@ -31,6 +31,8 @@ Projects where the majority of code was generated through collaboration with<br>
 - [DeepRank-AI](https://github.com/DeepRank-AI/seo-platform-template) - AI SEO platform template with dashboard, keyword research, backlink analysis, and Google Search Console integration. `Vue 3` `OpenAI`
 - [GetCito](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - Open-source AI Search Optimization tool monitoring content performance across ChatGPT, Perplexity, and Gemini. `Next.js` `AI-assisted`
 - [LOOM](https://github.com/MarcinZmuda/loom) - AI-powered internal linking engine for WordPress with semantic embeddings, 11-dimensional scoring, and Google Search Console integration. `PHP` `OpenAI`
+- [Ligase Schema Markup](https://github.com/MarcinZmuda/Ligase-Schema-Markup) — Complete schema.org JSON-LD for WordPress blogs. Entity graph, AI search optimization, and schema auditor - all in one plugin. `PHP` `WordPress`
+- [Yash WordPress Text to Speech Plugin](https://github.com/MarcinZmuda/Yash-WordPress-Text-to-Speech-Plugin) — WordPress TTS plugin — Google Wavenet voices, MP3 caching, text highlighting and Audio Schema SEO. `PHP` `WordPress`
 - [Marketing Skills](https://github.com/kostja94/marketing-skills) - 160+ markdown SEO, content, and marketing skill files for AI agents covering paid ads, growth strategies, and content pages. `Markdown` `Cursor`
 - [Open SEO](https://github.com/every-app/open-seo) - Open-source, self-hostable SEO platform for keyword research, domain insights, backlinks, and site audits. `TypeScript` `Claude`
 - [PSEO Skills](https://github.com/lisbeth718/pseo-skills) - Coordinated programmatic SEO skills for scaling SEO across thousands of pages, designed for AI coding assistants. `Markdown` `Cursor`
