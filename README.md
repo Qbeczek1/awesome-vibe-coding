@@ -38,6 +38,7 @@ Projects where the majority of code was generated through collaboration with<br>
 - [Open SEO](https://github.com/every-app/open-seo) - Open-source, self-hostable SEO platform for keyword research, domain insights, backlinks, and site audits. `TypeScript` `Claude`
 - [PSEO Skills](https://github.com/lisbeth718/pseo-skills) - Coordinated programmatic SEO skills for scaling SEO across thousands of pages, designed for AI coding assistants. `Markdown` `Cursor`
 - [Semrush MCP](https://github.com/mrkooblu/semrush-mcp) - MCP server with 77 tools providing AI assistants access to Semrush API for keyword research, backlinks, and domain analytics. `TypeScript` `Claude`
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO, Google Ads, content writing, CMS setup, and actionable optimization workflows. `Markdown` `Claude Code`
 - [SEO AGI](https://github.com/gbessoni/seo-agi) - AI agent that writes SEO-optimized content by pulling SERP data, analyzing competitors, and generating pages with schema markup. `Python` `Claude Code`
 - [SEO-AEO-GEO Assistant](https://github.com/kxwu222/SEO-AEO-GEO-Assistant) - Comprehensive optimization toolkit covering traditional SEO, AI search optimization, and technical audits. `Python` `Claude Code`
 - [SEOBot](https://github.com/George3307/seobot) - AI SEO toolkit with keyword research, content generation, 18-point technical audit, and one-click publishing. `Next.js` `AI-assisted`
