@@ -77,6 +77,7 @@ Projects where the majority of code was generated through collaboration with<br>
 
 - [Scrapstyle](https://github.com/Max-Mogilski/Scrapstyle) - Generates AI-ready design systems and style guides for Cursor and Lovable by scraping website URLs. `TypeScript` `Cursor`
 - [VibeForge](https://github.com/victorgulchenko/VibeForge) - Generates .cursorrules files and project structures for Cursor users using AI. `TypeScript` `Cursor`
+- [wikivibe-mcp](https://github.com/AlexMi64/wikivibe-mcp) - Public read-only MCP endpoint for searching Wikivibe AI-assisted development guides, glossary entries, jobs, and articles. `MCP` `Codex`
 
 ## Maintainer
 
