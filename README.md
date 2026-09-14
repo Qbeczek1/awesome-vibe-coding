@@ -77,6 +77,7 @@ Projects where the majority of code was generated through collaboration with<br>
 
 - [Scrapstyle](https://github.com/Max-Mogilski/Scrapstyle) - Generates AI-ready design systems and style guides for Cursor and Lovable by scraping website URLs. `TypeScript` `Cursor`
 - [VibeForge](https://github.com/victorgulchenko/VibeForge) - Generates .cursorrules files and project structures for Cursor users using AI. `TypeScript` `Cursor`
+- [ContextStream](https://contextstream.io) - Shared project context for Cursor, Claude Code, Codex, Grok via hosted MCP (`https://mcp.contextstream.io/mcp`). Intelligence isn’t the bottleneck. Context is. `MCP` `Cursor` `Claude Code`
 
 ## Maintainer
 
