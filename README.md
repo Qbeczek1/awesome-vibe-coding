@@ -72,6 +72,7 @@ Projects where the majority of code was generated through collaboration with<br>
 
 - [Build Together](https://github.com/markoinla/build-together) - Lightweight project management tool for AI+human collaboration with native MCP and API support. `TypeScript` `Cursor`
 - [Monize](https://github.com/kenlasko/monize) - Personal finance management app tracking transactions, bills, deposits, and investments — 100% written by AI. `TypeScript` `Claude Code`
+- [Resume Gallery](https://github.com/ismailghedamsi/resume-gallery) - Android gallery where each named browse session remembers where you left off. `Java` `Muse Spark`
 
 ## Developer Tools
 
